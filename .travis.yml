@@ -9,3 +9,5 @@ before_install:
 
 script:
   - python --version
+  - echo $USER 
+  - echo $PASS
